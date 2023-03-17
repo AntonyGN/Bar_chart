@@ -1,4 +1,4 @@
-# How to create a bar chart in Excel with Python and #OpenPyXL
+# How to create a bar chart in Excel with Python and OpenPyXL
 
 ### Step 1
 Import the necessary libraries
